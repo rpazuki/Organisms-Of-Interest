@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+K_phaffii,Lu2021 K.pastoris pan-GEM,3811,910,0.9558,60.0,49.0,True,1,r_1714,metric rank 1; adopted over iMT1026 v3 - 1 vs 7 unmatched roles,22.2,False,-10.72,-12.95,True,Lu2021 K.pastoris pan-GEM

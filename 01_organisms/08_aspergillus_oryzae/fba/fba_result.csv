@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+A_oryzae,iWV1346,2360,1346,1.3807,60.0,52.2,True,12,r2205,metric rank 1; highest GPR coverage (0.84) in set,101.9,True,-14.8,-14.8,False,iWV1346

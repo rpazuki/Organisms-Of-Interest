@@ -1,0 +1,9 @@
+organism,model_id,n_rxn,n_genes,growth_h1,yield_g_per_g,pctC_biomass,C_balanced,loads,has_exchanges,has_genes,objective_defined,bounds_retained,no_EGC,NGAM_enforced,n_pass
+S_cerevisiae,yeast-GEM v9.1.0,4102,1143,0.837,0.465,49.4,True,True,True,True,True,True,True,True,8
+K_phaffii,iMT1026 v3,2237,1026,1.18,0.655,42.0,True,True,True,True,True,True,True,True,8
+Y_lipolytica,iYali4,1985,901,0.7881,0.437,45.7,True,True,True,True,True,True,True,False,7
+F_venenatum,Lu2021 F. graminearum (proxy),4093,1611,0.9333,0.518,49.0,False,True,True,True,True,True,True,True,7
+R_microsporus,iCV785,1359,787,1.1113,0.617,46.8,True,True,True,True,True,True,False,True,7
+A_niger,iJB1325,2320,1325,1.0418,0.578,53.2,True,True,True,True,True,True,,False,6
+A_oryzae,iWV1346,2360,1346,1.3807,0.766,52.2,False,True,True,True,True,True,False,True,6
+T_reesei,CoReCo Castillo2016,7296,0,0.0901,0.05,,False,True,True,False,True,True,,False,4

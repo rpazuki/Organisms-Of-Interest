@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+Y_lipolytica,Lu2021 Y.lipolytica pan-GEM,3814,1103,0.8726,60.0,50.7,True,1,r_1714,metric rank 1; adopted over iYali4 - closes C at 50.7% vs 45.7% and 1 vs 10 unmatched roles,22.2,False,-9.84,-11.87,True,Lu2021 Y.lipolytica pan-GEM

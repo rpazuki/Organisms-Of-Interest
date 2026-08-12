@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+A_niger,iJB1325 (curated),2320,1325,1.0418,60.0,53.2,False,7,BOUNDARY_GLCe,metric rank 1; curated 2026 revision,49.1,True,-11.09,-12.19,False,iJB1325 (curated)

@@ -1,0 +1,9 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+S_cerevisiae,yeast-GEM v9.1.0,4102,1143,0.837,60.0,49.4,True,1,r_1714,"metric rank 1; consensus, CI-tested",19.1,False,-10.58,-11.31,True,yeast-GEM v9.1.0
+Y_lipolytica,Lu2021 Y.lipolytica pan-GEM,3814,1103,0.8726,60.0,50.7,True,1,r_1714,metric rank 1; adopted over iYali4 - closes C at 50.7% vs 45.7% and 1 vs 10 unmatched roles,22.2,False,-9.84,-11.87,True,Lu2021 Y.lipolytica pan-GEM
+K_phaffii,Lu2021 K.pastoris pan-GEM,3811,910,0.9558,60.0,49.0,True,1,r_1714,metric rank 1; adopted over iMT1026 v3 - 1 vs 7 unmatched roles,22.2,False,-10.72,-12.95,True,Lu2021 K.pastoris pan-GEM
+A_niger,iJB1325 (curated),2320,1325,1.0418,60.0,53.2,False,7,BOUNDARY_GLCe,metric rank 1; curated 2026 revision,49.1,True,-11.09,-12.19,False,iJB1325 (curated)
+A_oryzae,iWV1346,2360,1346,1.3807,60.0,52.2,True,12,r2205,metric rank 1; highest GPR coverage (0.84) in set,101.9,True,-14.8,-14.8,False,iWV1346
+R_microsporus,iCV785,1359,787,1.1113,60.0,46.8,True,5,GLUCOSE_TRANS_RXN_L2R,"metric rank 3 but ADOPTED: iHol (rank 1) fails the biomass-carbon gate (59.4% C under System_growth, 118.8% under fungal biomass) so its rates are not per-gDW. iCV785 gives 46.8%. Use iHol only for gene-level coverage (1461 vs 787 genes).",34.8,False,-12.37,-14.02,True,iCV785
+F_venenatum,Lu2021 F. graminearum (PROXY),4093,1611,0.9333,60.0,49.0,True,1,r_1714,no F. venenatum GEM exists; proxy host,19.8,False,-10.45,-12.88,True,Lu2021 F.graminearum
+T_reesei,CoReCo Castillo2016,7296,0,0.0901,0.0,,,7,EX_b_C00031,"metric rank 1 of only 2 candidates; automated draft, 0 genes - no gene-level design possible",1.8,False,-9.26,-11.83,False,CoReCo T.reesei (Castillo)

@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+T_reesei,CoReCo Castillo2016,7296,0,0.0901,0.0,,,7,EX_b_C00031,"metric rank 1 of only 2 candidates; automated draft, 0 genes - no gene-level design possible",1.8,False,-9.26,-11.83,False,CoReCo T.reesei (Castillo)

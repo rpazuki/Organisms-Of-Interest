@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+S_cerevisiae,yeast-GEM v9.1.0,4102,1143,0.837,60.0,49.4,True,1,r_1714,"metric rank 1; consensus, CI-tested",19.1,False,-10.58,-11.31,True,yeast-GEM v9.1.0

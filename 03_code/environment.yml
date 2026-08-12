@@ -1,0 +1,10 @@
+name: fungal-gem
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.13
+  - cobra
+  - libsbml
+  - memote
+  - pandas
+  - matplotlib
+  - seaborn

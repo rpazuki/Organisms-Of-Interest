@@ -1,0 +1,9 @@
+organism,ncbi_taxid,ncbi_scientific_name,kingdom,phylum,subphylum,class,order,family,genus,reference_proteome,proteome_strain,protein_count,busco_complete_pct,kegg_code,kegg_genes,kegg_unique_KO,kegg_pathways,uniprot_unique_EC
+Y_lipolytica,4952,Yarrowia lipolytica,Fungi,Ascomycota,Saccharomycotina,Dipodascomycetes,Dipodascales,,Yarrowia,UP000001300,Yarrowia lipolytica CLIB122,6454,93.2,yli,7300.0,3149.0,144.0,665
+S_cerevisiae,4932,Saccharomyces cerevisiae,Fungi,Ascomycota,Saccharomycotina,Saccharomycetes,Saccharomycetales,Saccharomycetaceae,Saccharomyces,UP000002311,Saccharomyces cerevisiae S288C,6067,99.6,sce,6449.0,3430.0,142.0,932
+F_venenatum,56646,Fusarium venenatum,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreales,Nectriaceae,Fusarium,UP000245910,Fusarium venenatum,13945,99.5,fvn,14516.0,3459.0,155.0,738
+R_microsporus,58291,Rhizopus microsporus,Fungi,Mucoromycota,Mucoromycotina,Mucoromycetes,Mucorales,Rhizopodaceae,Rhizopus,UP000242254,Rhizopus microsporus ATCC 52813,10804,97.1,ABSENT,,,,673
+T_reesei,51453,Trichoderma reesei,Fungi,Ascomycota,Pezizomycotina,Sordariomycetes,Hypocreales,Hypocreaceae,Trichoderma,UP000008984,Trichoderma reesei QM6a,9115,97.2,tre,9113.0,3357.0,154.0,700
+K_phaffii,460519,Komagataella phaffii,Fungi,Ascomycota,Saccharomycotina,Pichiomycetes,Pichiales,Pichiaceae,Komagataella,UP000000314,Komagataella phaffii GS115,5038,93.7,ppa,5040.0,3100.0,142.0,611
+A_niger,5061,Aspergillus niger,Fungi,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,UP000006706,Aspergillus niger ATCC 1015 (CBS 513.88 rel.),14069,93.6,ang,14166.0,3339.0,154.0,1114
+A_oryzae,5062,Aspergillus oryzae,Fungi,Ascomycota,Pezizomycotina,Eurotiomycetes,Eurotiales,Aspergillaceae,Aspergillus,UP000006564,Aspergillus oryzae RIB40,12045,83.6,aor,12102.0,3289.0,156.0,775

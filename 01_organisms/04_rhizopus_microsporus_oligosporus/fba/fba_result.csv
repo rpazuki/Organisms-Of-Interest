@@ -1,0 +1,2 @@
+organism,model,n_rxn,n_genes,growth_h1,C_in,pctC_biomass,per_gDW,unmatched_roles,glc_exchange,rationale,max_ATP_per_glc,EGC_suspected,burden_slope_AAonly,burden_slope_full,fba_trustworthy,census_model_id
+R_microsporus,iCV785,1359,787,1.1113,60.0,46.8,True,5,GLUCOSE_TRANS_RXN_L2R,"metric rank 3 but ADOPTED: iHol (rank 1) fails the biomass-carbon gate (59.4% C under System_growth, 118.8% under fungal biomass) so its rates are not per-gDW. iCV785 gives 46.8%. Use iHol only for gene-level coverage (1461 vs 787 genes).",34.8,False,-12.37,-14.02,True,iCV785

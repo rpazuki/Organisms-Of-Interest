@@ -1,0 +1,9 @@
+organism,model,n_genes,growth,yield,C_in,C_out,C_recov,n_unk,pctC_biomass,unmatched_roles
+S_cerevisiae,yeast-GEM v9.1.0,1143,0.837,0.465,60.0,25.6,0.427,1,49.4,1
+Y_lipolytica,iYali4,901,0.7881,0.437,60.0,30.02,0.5,1,45.7,10
+K_phaffii,iMT1026 v3,1026,1.18,0.655,60.0,18.69,0.311,1,42.0,7
+A_niger,iJB1325,1325,1.0418,0.578,60.0,13.87,0.231,1,53.2,7
+A_oryzae,iWV1346,1346,1.3807,0.766,60.0,0.0,0.0,8,52.2,12
+T_reesei,CoReCo Castillo2016,0,0.0901,0.05,0.0,0.0,,9,,7
+R_microsporus,iCV785,787,1.1113,0.617,60.0,16.69,0.278,0,46.8,5
+F_venenatum,Lu2021 F. graminearum (proxy),1611,0.9333,0.518,60.0,21.91,0.365,2,49.0,1
